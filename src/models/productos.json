@@ -1,0 +1,50 @@
+[
+    {
+      "title": "Remera",
+      "description": "Algodon",
+      "price": "18000",
+      "img": "Sin Imagen",
+      "code": "rem01",
+      "stock": "32",
+      "category": "Ropa",
+      "status": true,
+      "thumbnails": [],
+      "id": 1
+    },
+    {
+      "title": "Buzo",
+      "description": "Con capucha",
+      "price": "31000",
+      "img": "Sin Imagen",
+      "code": "buz01",
+      "stock": "15",
+      "category": "Ropa",
+      "status": true,
+      "thumbnails": [],
+      "id": 2
+    },
+    {
+      "title": "Jean",
+      "description": "Baggy",
+      "price": "4200",
+      "img": "Sin Imagen",
+      "code": "jea01",
+      "stock": "30",
+      "category": "Ropa",
+      "status": true,
+      "thumbnails": [],
+      "id": 3
+    },
+    {
+      "title": "Gorra",
+      "description": "Accesorios",
+      "price": "1000",
+      "img": "Sin Imagen",
+      "code": "gor01",
+      "stock": "66",
+      "category": "Ropa",
+      "status": true,
+      "thumbnails": [],
+      "id": 4
+    }
+  ]
